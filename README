@@ -1,0 +1,54 @@
+# 🌟 Portfolio de Kambale Ndato
+
+Ce projet est un **portfolio en ligne** permettant de présenter le parcours académique, les compétences et l’expérience professionnelle de **Kambale Ndato**, passionné par la communication, le branding, l’informatique et l’audiovisuel.
+
+## 🎯 Objectif
+
+L’objectif de ce projet est de :
+
+- Mettre en valeur les **compétences professionnelles** en communication, branding, multimédia et informatique.
+- Présenter un **parcours académique clair** et structuré.
+- Exposer des **expériences professionnelles significatives** dans des entreprises et organisations locales telles que **Urban Comm, Action Media, Ibiza Dahlia, Yole Africa**.
+- Servir de **carte de visite digitale** accessible partout.
+
+## 🛠️ Technologies utilisées
+
+- **HTML5**
+- **CSS3** (avec possibilité d’intégration Tailwind ou Bootstrap si besoin)
+- **JavaScript** (animations AOS pour les effets de scroll)
+
+## 📂 Structure du projet
+
+- `index.html` : page principale du portfolio (parcours, compétences, expériences).
+- `assets/` : contient les images, icônes et ressources multimédias.
+- `css/` : fichiers de styles pour la mise en forme du portfolio.
+- `js/` : scripts pour les animations et interactions.
+
+## ✨ Contenu principal
+
+- **Section Formation** : études à l’**Institut Supérieur de Commerce (ISC)** en Informatique.
+- **Section Compétences** : branding, stratégie de communication, montage vidéo, documentaire, cinématographie, informatique et community management.
+- **Section Expériences** :
+  - Urban Comm
+  - Action Media
+  - Ibiza Dahlia
+  - Yole Africa _(poste actuel)_
+
+## 🚀 Mise en ligne
+
+Le projet peut être hébergé facilement sur :
+
+- [GitHub Pages](https://pages.github.com/)
+- [Netlify](https://www.netlify.com/)
+- [Vercel](https://vercel.com/)
+
+## 👤 Auteur
+
+**Kambale Ndato**
+
+- Chargé de communication, vidéaste et cinéaste.
+- Passionné par le **branding**, la **création multimédia** et la **valorisation culturelle**.
+
+---
+
+📌 Ce portfolio est évolutif : de nouvelles **réalisations, documentaires et projets cinématographiques** seront intégrés régulièrement.
